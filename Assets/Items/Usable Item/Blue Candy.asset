@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d314078c67f11241868b95b86183e18, type: 3}
+  m_Name: Blue Candy
+  m_EditorClassIdentifier: 
+  id: debaac2ee7a3d444794d564fcbaf5741
+  ItemName: Blue Candy
+  Icon: {fileID: 1632291235, guid: 30e69d6ba784c124d8b75298c4f63dd6, type: 3}
+  MaximumStack: 64
+  IsConsumable: 1
+  Effects:
+  - {fileID: 11400000, guid: e4a5b5f7e57e89540adc06102356792d, type: 2}
+  - {fileID: 11400000, guid: 798effa1dbd77b24cbabc6df99ce24d4, type: 2}

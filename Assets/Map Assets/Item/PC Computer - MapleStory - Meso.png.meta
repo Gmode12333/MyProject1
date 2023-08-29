@@ -1,0 +1,551 @@
+fileFormatVersion: 2
+guid: f9baae3c3808ca74fab72bfbca51f400
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Copper Coin 1
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 98
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fd1dfefe620d984db9f73e2d2477e69
+      internalID: 158653258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copper Coin 2
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 98
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd7c0a99a1d744648a9815b98584fd88
+      internalID: -1457535583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copper Coin 3
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 98
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebe13f5a889101d418a86c63e3637c22
+      internalID: 774185301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Copper Coin 4
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 98
+        width: 5
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75285b3c449512641b1037d08ca6bdcb
+      internalID: 912890978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gold Coin 1
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 72
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3b954fecc0dfd8418a00987c3ec9dc0
+      internalID: -1240384837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gold Coin 2
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 72
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a85737dd02569ed48a4492b0219c01c6
+      internalID: -219908872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gold Coin 3
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 72
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caad299ed6903e242819715f415df5dc
+      internalID: -3817593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gold Coin 4
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 72
+        width: 5
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb302e0f0e4972d43ad60cdae83b38ce
+      internalID: -2120073602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoneyStack 1
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 40
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7d70784870033641b8b0b5bc1289018
+      internalID: 248408973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoneyStack 2
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 40
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 383b7b7a7543fc24682c863332a21be0
+      internalID: -907205987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoneyStack 3
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 40
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 538647be7af0cfa42b21c0676a6cb848
+      internalID: -2040040038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MoneyStack 4
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 40
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32927a0e077667c4da69e44fa0da3b8e
+      internalID: -1487662428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goldpack 1
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 6
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f13f61ac556b6046b90d479bd1d21b8
+      internalID: 135626924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goldpack 2
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 6
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6b3e166db810774aa7bfb2e7cd1da77
+      internalID: 1993920327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goldpack 3
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 6
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca85ab63d666be642b45db7dc6ef30cd
+      internalID: 1134482703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Goldpack 4
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 6
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 275c059173544354ca742d13c615c33d
+      internalID: -1903330403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Meso_0
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 40
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 327971900f93c404987fbfc2ac119880
+      internalID: -1509594224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Copper Coin 1: 158653258
+      Copper Coin 2: -1457535583
+      Copper Coin 3: 774185301
+      Copper Coin 4: 912890978
+      Gold Coin 1: -1240384837
+      Gold Coin 2: -219908872
+      Gold Coin 3: -3817593
+      Gold Coin 4: -2120073602
+      Goldpack 1: 135626924
+      Goldpack 2: 1993920327
+      Goldpack 3: 1134482703
+      Goldpack 4: -1903330403
+      MoneyStack 1: 248408973
+      MoneyStack 2: -907205987
+      MoneyStack 3: -2040040038
+      MoneyStack 4: -1487662428
+      PC Computer - MapleStory - Meso_0: -1509594224
+      PC Computer - MapleStory - Meso_10: -77440274
+      PC Computer - MapleStory - Meso_11: -666750175
+      PC Computer - MapleStory - Meso_12: -1338635711
+      PC Computer - MapleStory - Meso_13: 3479535
+      PC Computer - MapleStory - Meso_14: 613263558
+      PC Computer - MapleStory - Meso_15: 708146845
+      PC Computer - MapleStory - Meso_16: 585868774
+      PC Computer - MapleStory - Meso_17: -324745951
+      PC Computer - MapleStory - Meso_18: -1387412
+      PC Computer - MapleStory - Meso_19: 43089900
+      PC Computer - MapleStory - Meso_20: -436940782
+      PC Computer - MapleStory - Meso_21: -1758775179
+      PC Computer - MapleStory - Meso_22: -1295065603
+      PC Computer - MapleStory - Meso_23: -2010412066
+      PC Computer - MapleStory - Meso_28: -958821507
+      PC Computer - MapleStory - Meso_29: 1218151758
+      PC Computer - MapleStory - Meso_30: 1013211407
+      PC Computer - MapleStory - Meso_31: -676700538
+      PC Computer - MapleStory - Meso_32: 967054978
+      PC Computer - MapleStory - Meso_33: -264533091
+      PC Computer - MapleStory - Meso_34: -1214824644
+      PC Computer - MapleStory - Meso_35: -11956385
+      PC Computer - MapleStory - Meso_36: -1468439551
+      PC Computer - MapleStory - Meso_37: 1218600532
+      PC Computer - MapleStory - Meso_38: 1082536638
+      PC Computer - MapleStory - Meso_39: 1087650778
+      PC Computer - MapleStory - Meso_4: -358267557
+      PC Computer - MapleStory - Meso_40: 1890290355
+      PC Computer - MapleStory - Meso_41: -766848426
+      PC Computer - MapleStory - Meso_42: -399878853
+      PC Computer - MapleStory - Meso_43: 1961178570
+      PC Computer - MapleStory - Meso_44: 175140079
+      PC Computer - MapleStory - Meso_45: 1564748075
+      PC Computer - MapleStory - Meso_46: 396545778
+      PC Computer - MapleStory - Meso_47: -165402186
+      PC Computer - MapleStory - Meso_48: -1121831222
+      PC Computer - MapleStory - Meso_49: 266492489
+      PC Computer - MapleStory - Meso_5: -1747952461
+      PC Computer - MapleStory - Meso_6: 1316393196
+      PC Computer - MapleStory - Meso_7: -1252176223
+      PC Computer - MapleStory - Meso_8: 1482809202
+      PC Computer - MapleStory - Meso_9: -1916088050
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

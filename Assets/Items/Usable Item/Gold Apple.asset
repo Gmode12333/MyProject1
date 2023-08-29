@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d314078c67f11241868b95b86183e18, type: 3}
+  m_Name: Gold Apple
+  m_EditorClassIdentifier: 
+  id: 7f13ae9f38f6393459d17580f12e4af1
+  ItemName: Gold Apple
+  Icon: {fileID: 875635008, guid: 30e69d6ba784c124d8b75298c4f63dd6, type: 3}
+  MaximumStack: 64
+  IsConsumable: 1
+  Effects:
+  - {fileID: 11400000, guid: 528737c5aa0cbfe4bbde2e7a0f4c62f3, type: 2}
+  - {fileID: 11400000, guid: 233d41e32da7dd041a31ee41d5d4a6de, type: 2}

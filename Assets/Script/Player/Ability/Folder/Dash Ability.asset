@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1526572a5b6c05e429e0a02cb738da00, type: 3}
+  m_Name: Dash Ability
+  m_EditorClassIdentifier: 
+  name: Dash
+  cooldownTime: 0.5
+  activeTime: 0.3
+  ManaCost: 5
+  Key: 304
+  DashVelocity: 30
+  _dash: {fileID: 8300000, guid: cdf0d46618d54954db74387591e40ee0, type: 3}

@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4d314078c67f11241868b95b86183e18, type: 3}
+  m_Name: Purple Apple
+  m_EditorClassIdentifier: 
+  id: a83d8c1a7a2febc408f0808caca3a3a1
+  ItemName: Purple Apple
+  Icon: {fileID: 116551946, guid: 30e69d6ba784c124d8b75298c4f63dd6, type: 3}
+  MaximumStack: 64
+  IsConsumable: 1
+  Effects:
+  - {fileID: 11400000, guid: 798effa1dbd77b24cbabc6df99ce24d4, type: 2}
+  - {fileID: 11400000, guid: 7c75adff7c1cb92449553f5b9c5905d8, type: 2}

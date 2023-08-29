@@ -1,0 +1,608 @@
+fileFormatVersion: 2
+guid: fb6937ad8fc67f046a1fc1e4a5286934
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 30
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Coke Town Tiles_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 255
+        width: 90
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.248}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e6fc016cadd79c45a7f3ae04ccc0653
+      internalID: 1956356952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Coke Town Tiles_1
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 255
+        width: 90
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.248}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bea2595d3942d2d439e1dbcb82d93790
+      internalID: -1282552709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Coke Town Tiles_2
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 255
+        width: 90
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.248}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44f84ee58366ac440a9f9895eae2f15c
+      internalID: -494593822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Coke Town Tiles_3
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 255
+        width: 90
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.248}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c22ad241dbf32ca4ea41d5bfdef00f33
+      internalID: -2010184150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Coke Town Tiles_4
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 255
+        width: 90
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.248}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b510779d8d74ce942850f9f2b96f69a8
+      internalID: -493316002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Coke Town Tiles_5
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 206
+        width: 64
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7ddb127bad3bb449839c76803dcc217
+      internalID: -1654975785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Coke Town Tiles_6
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 207
+        width: 80
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 781a37f762439f642aeba671992f9b2b
+      internalID: -1970952922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Coke Town Tiles_7
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 207
+        width: 90
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4aef1cd6940ea74bbd10aca47c16206
+      internalID: -486498730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Coke Town Tiles_8
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 207
+        width: 90
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcd3a413485eff94c9ac008c5dee1fbd
+      internalID: -1163775518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Coke Town Tiles_9
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 207
+        width: 90
+        height: 33
+      alignment: 9
+      pivot: {x: 0.5, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cac3f0369ea0084693beb55112f2c2e
+      internalID: -310059411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Coke Town Tiles_10
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 158
+        width: 90
+        height: 28
+      alignment: 9
+      pivot: {x: 0.5, y: 0.46}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b590eff4d8bd08468c8aea5e3f0d791
+      internalID: 199178185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Coke Town Tiles_11
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 154
+        width: 90
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.46}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48e5832469e19ef4fad19c4f2cceca35
+      internalID: -1786747565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Coke Town Tiles_12
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 126
+        width: 33
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cea65a299f23fc845aa4a6667204eb42
+      internalID: 722664755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Coke Town Tiles_13
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 126
+        width: 33
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 198f61555d01f124eb38a3e3d2eb21fb
+      internalID: 356452595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Coke Town Tiles_14
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 126
+        width: 33
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01cfb7f51c4a885428bf9871a0d7765b
+      internalID: 1947958233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Coke Town Tiles_15
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 126
+        width: 31
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7ea2ff35faed3d46abbd279524b44ca
+      internalID: -166925124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Coke Town Tiles_49
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 7
+        width: 90
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75ae5458c0a5ce84198d3ea260f5aeec
+      internalID: -505261916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Coke Town Tiles_50
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 7
+        width: 90
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bf4aa42041598f4997ae714e6258b09
+      internalID: -1949300188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Coke Town Tiles_51
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 6
+        width: 90
+        height: 86
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 146ce3663b1104b4695a2d06379c12d7
+      internalID: -432218557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PC Computer - MapleStory - Coke Town Tiles_52
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 7
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28b520449e0c5b9459feb5c472d840d6
+      internalID: 98529533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      PC Computer - MapleStory - Coke Town Tiles_0: 1956356952
+      PC Computer - MapleStory - Coke Town Tiles_1: -1282552709
+      PC Computer - MapleStory - Coke Town Tiles_10: 199178185
+      PC Computer - MapleStory - Coke Town Tiles_11: -1786747565
+      PC Computer - MapleStory - Coke Town Tiles_12: 722664755
+      PC Computer - MapleStory - Coke Town Tiles_13: 356452595
+      PC Computer - MapleStory - Coke Town Tiles_14: 1947958233
+      PC Computer - MapleStory - Coke Town Tiles_15: -166925124
+      PC Computer - MapleStory - Coke Town Tiles_16: -572664332
+      PC Computer - MapleStory - Coke Town Tiles_17: -1112487027
+      PC Computer - MapleStory - Coke Town Tiles_18: 2074161768
+      PC Computer - MapleStory - Coke Town Tiles_19: -260404520
+      PC Computer - MapleStory - Coke Town Tiles_2: -494593822
+      PC Computer - MapleStory - Coke Town Tiles_20: 463728511
+      PC Computer - MapleStory - Coke Town Tiles_21: 1274021155
+      PC Computer - MapleStory - Coke Town Tiles_22: 1107133747
+      PC Computer - MapleStory - Coke Town Tiles_23: 1258231352
+      PC Computer - MapleStory - Coke Town Tiles_24: 1686242075
+      PC Computer - MapleStory - Coke Town Tiles_25: -544800595
+      PC Computer - MapleStory - Coke Town Tiles_26: 798870223
+      PC Computer - MapleStory - Coke Town Tiles_27: -1587734078
+      PC Computer - MapleStory - Coke Town Tiles_28: -2123389338
+      PC Computer - MapleStory - Coke Town Tiles_29: 1670937428
+      PC Computer - MapleStory - Coke Town Tiles_3: -2010184150
+      PC Computer - MapleStory - Coke Town Tiles_30: 96061750
+      PC Computer - MapleStory - Coke Town Tiles_31: 1868201949
+      PC Computer - MapleStory - Coke Town Tiles_32: -500381058
+      PC Computer - MapleStory - Coke Town Tiles_33: 243271698
+      PC Computer - MapleStory - Coke Town Tiles_34: -2016408178
+      PC Computer - MapleStory - Coke Town Tiles_35: 2116011736
+      PC Computer - MapleStory - Coke Town Tiles_36: -2054861602
+      PC Computer - MapleStory - Coke Town Tiles_37: 1999323083
+      PC Computer - MapleStory - Coke Town Tiles_38: 432181429
+      PC Computer - MapleStory - Coke Town Tiles_39: 2146883090
+      PC Computer - MapleStory - Coke Town Tiles_4: -493316002
+      PC Computer - MapleStory - Coke Town Tiles_40: 1063305747
+      PC Computer - MapleStory - Coke Town Tiles_41: 576662053
+      PC Computer - MapleStory - Coke Town Tiles_42: -215146558
+      PC Computer - MapleStory - Coke Town Tiles_43: 1274756377
+      PC Computer - MapleStory - Coke Town Tiles_44: -1080277283
+      PC Computer - MapleStory - Coke Town Tiles_45: -305930089
+      PC Computer - MapleStory - Coke Town Tiles_46: 1600087358
+      PC Computer - MapleStory - Coke Town Tiles_47: -1112508378
+      PC Computer - MapleStory - Coke Town Tiles_48: -1780053421
+      PC Computer - MapleStory - Coke Town Tiles_49: -505261916
+      PC Computer - MapleStory - Coke Town Tiles_5: -1654975785
+      PC Computer - MapleStory - Coke Town Tiles_50: -1949300188
+      PC Computer - MapleStory - Coke Town Tiles_51: -432218557
+      PC Computer - MapleStory - Coke Town Tiles_52: 98529533
+      PC Computer - MapleStory - Coke Town Tiles_6: -1970952922
+      PC Computer - MapleStory - Coke Town Tiles_7: -486498730
+      PC Computer - MapleStory - Coke Town Tiles_8: -1163775518
+      PC Computer - MapleStory - Coke Town Tiles_9: -310059411
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
